@@ -84,6 +84,7 @@ export class ImageCompress {
         }
 
       });
+      document.body.appendChild(inputElement);
       inputElement.click();
 
     });
